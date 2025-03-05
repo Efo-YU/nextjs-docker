@@ -17,4 +17,3 @@ $ docker run -v ./:/app -p 3000:3000 -it <container name>
 $ npx create-next-app@latest
 ```
 compose.ymlとDockerfileをrootにおいて完成！
-
