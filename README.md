@@ -16,5 +16,4 @@ $ docker run -v ./:/app -p 3000:3000 -it <container name>
 ```sh
 $ npx create-next-app@latest
 ```
-compose.ymlとDockerfileをrootにおいて完成！
-
+`compose.yml`と`Dockerfile`と`.dockerignore`をrootにおいて完成！
